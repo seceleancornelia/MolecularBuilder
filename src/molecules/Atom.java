@@ -41,7 +41,8 @@ public class Atom {
         this.radius=radius;
         this.appearence=new Appearance();
         this.appearence.setMaterial(new Material(new Color3f(1f, 1f, 1f),emissiveColor, new Color3f(1.0f, 1f, 1.0f), new Color3f(0, 0, 0), 64));
-        sphere=new Sphere(radius,1,4000);
+//        this.appearence.setMaterial(new Material(emissiveColor,emissiveColor, new Color3f(1.0f, 1f, 1.0f), new Color3f(0, 0, 0), 64));
+        sphere=new Sphere(radius,1,1000);
         sphere.setAppearance(appearence);
     }
     public Atom(double weight, float electronegativity, int valence, float radius, Appearance appearence)

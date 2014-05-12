@@ -19,6 +19,9 @@ public class Main extends JFrame implements ActionListener{
         createFrame();
     }
     JButton button=new JButton("Add sphere");
+    JButton info=new JButton("Show information");
+    JLabel display_data = new JLabel("Ana are mere");
+
     /**
      * The canvas for the universe
      */
@@ -37,6 +40,12 @@ public class Main extends JFrame implements ActionListener{
          //sets up the button's listener. for testing purposes.
         setButton();
         panel.add(button);
+        panel.add(info);
+        info.setLocation(100, 0);
+        display_data.setOpaque(true);
+        display_data.setForeground(Color.RED);
+        display_data.setBackground(Color.RED);
+        panel.add(display_data);
         /**
          * Adds the canvas to the panel
          */
@@ -75,18 +84,24 @@ public class Main extends JFrame implements ActionListener{
         if (src == this.button) {
             environment.addnewElement("Hydrogen");
         }
+        if (src == this.info){
+            display_data.setLocation(500, 10);
+        }
     }
     public void setButton()
     {
         button.addActionListener(this);
+        info.addActionListener(this);
         button.setLayout(null);
+        info.setLayout(null);
         button.setSize(100, 20);
+        info.setSize(100, 20);
     }
     public static void main(String s[])
     {
         Main main=new Main("Molecular Builder");
-        MolecularFile file=new MolecularFile("/home/mihai/mihai.json");
-        HashMap<String,Object> hash=file.fileToHashMap();
-        System.out.println(hash.get("data"));
+//        MolecularFile file=new MolecularFile("/home/mihai/mihai.json");
+//        HashMap<String,Object> hash=file.fileToHashMap();
+//        System.out.println(hash.get("data"));
     }
 }

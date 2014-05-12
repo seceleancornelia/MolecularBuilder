@@ -4,19 +4,20 @@
     <list default="true" id="88a96294-f319-435a-8ca5-4d91d7a88ba9" name="Default" comment="" />
     <ignored path="MolecularBuilder.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Main.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1388869986873" ignored="false" />
+    <file path="/Main.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1398095090219" ignored="false" />
     <file path="/InitializeEnviroment.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1388510687455" ignored="false" />
-    <file path="/Atom.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1388655366042" ignored="false" />
-    <file path="/fragment.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1388874508186" ignored="false" />
+    <file path="/Atom.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1397900929883" ignored="false" />
+    <file path="/fragment.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1398095129328" ignored="false" />
     <file path="/Text3DLoad.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1388504021499" ignored="false" />
     <file path="/File Header.txt.ft" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1388661786511" ignored="false" />
     <file path="/AtomTest.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1388662764478" ignored="false" />
     <file path="/EnvironmentConstructor.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1388777412067" ignored="false" />
     <file path="/SimpleBound.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1388698711940" ignored="false" />
-    <file path="/MoleculeBranch.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1388943058503" ignored="false" />
+    <file path="/MoleculeBranch.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1399859107743" ignored="false" />
     <file path="/Bound.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1388776592759" ignored="false" />
     <file path="/FileDecoder.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1388860765429" ignored="false" />
     <file path="/MolecularFile.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1388868153382" ignored="false" />
+    <file path="$USER_HOME$/DroidmoteMouse/gen/cz/mpelant/droidmoteMouse/R.java" changelist="88a96294-f319-435a-8ca5-4d91d7a88ba9" time="1392970385351" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +29,11 @@
     <leftPanel />
     <rightPanel />
     <splitter proportion="0.50735295" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MolecularBuilder$Main.coverage" NAME="Main Coverage Results" MODIFIED="1397899800895" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>universe.*</FILTER>
+    </SUITE>
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -87,58 +93,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MoleculeBranch.java" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="MoleculeBranch.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/universe/MoleculeBranch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="53" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/universe/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="87" column="38" selection-start="2556" selection-end="2556" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MolecularFile.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/universe/MolecularFile.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="9" selection-start="756" selection-end="756" vertical-scroll-proportion="0.64891845">
+            <state line="58" column="96" selection-start="2682" selection-end="2682" vertical-scroll-proportion="0.71428573">
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="docComment;method#rotate#0;class#MoleculeBranch#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AtomTest.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/molecules/AtomTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="13" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EnvironmentConstructor.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/universe/EnvironmentConstructor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="9" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Atom.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/molecules/Atom.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="71" selection-start="850" selection-end="850" vertical-scroll-proportion="0.0">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -147,6 +109,33 @@
         <entry file="file://$PROJECT_DIR$/src/molecules/Bound.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="10" column="43" selection-start="316" selection-end="316" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/universe/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="60" column="36" selection-start="1855" selection-end="1855" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EnvironmentConstructor.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/universe/EnvironmentConstructor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="31" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Atom.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/molecules/Atom.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="43" column="39" selection-start="1285" selection-end="1285" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -165,16 +154,16 @@
         <option value="$PROJECT_DIR$/src/molecules/RenderAtom.java" />
         <option value="$PROJECT_DIR$/src/universe/Text3DLoad.java" />
         <option value="$PROJECT_DIR$/src/universe/InitializeEnviroment.java" />
-        <option value="$PROJECT_DIR$/tests/molecules/AtomTest.java" />
         <option value="$PROJECT_DIR$/src/molecules/SimpleBound.java" />
         <option value="$PROJECT_DIR$/src/universe/Moleculebranch.java" />
         <option value="$PROJECT_DIR$/src/universe/EnvironmentConstructor.java" />
         <option value="$PROJECT_DIR$/src/universe/FileDecoder.java" />
         <option value="$PROJECT_DIR$/src/molecules/Bound.java" />
+        <option value="$PROJECT_DIR$/src/universe/MolecularFile.java" />
+        <option value="$PROJECT_DIR$/tests/molecules/AtomTest.java" />
+        <option value="$PROJECT_DIR$/src/molecules/Atom.java" />
         <option value="$PROJECT_DIR$/src/universe/Main.java" />
         <option value="$PROJECT_DIR$/src/universe/MoleculeBranch.java" />
-        <option value="$PROJECT_DIR$/src/molecules/Atom.java" />
-        <option value="$PROJECT_DIR$/src/universe/MolecularFile.java" />
       </list>
     </option>
   </component>
@@ -505,30 +494,16 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Problems" />
-        <subPane subId="Tests" />
-        <subPane subId="Production">
+      <pane id="PackagesPane">
+        <subPane>
           <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MolecularBuilder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
             </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="Project Files">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-        <subPane subId="All">
-          <PATH>
-            <PATH_ELEMENT USER_OBJECT="Root">
-              <option name="myItemId" value="" />
-              <option name="myItemType" value="" />
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MolecularBuilder" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -548,24 +523,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="MolecularBuilder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MolecularBuilder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MolecularBuilder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tests" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="molecules" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -607,16 +564,30 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane">
-        <subPane>
+      <pane id="Scope">
+        <subPane subId="Problems" />
+        <subPane subId="Tests" />
+        <subPane subId="Production">
           <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MolecularBuilder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MolecularBuilder" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+          </PATH>
+        </subPane>
+        <subPane subId="Project Files">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+        <subPane subId="All">
+          <PATH>
+            <PATH_ELEMENT USER_OBJECT="Root">
+              <option name="myItemId" value="" />
+              <option name="myItemType" value="" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -625,7 +596,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="GoToFile.includeJavaFiles" value="false" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -633,7 +604,7 @@
     <property name="options.lastSelected" value="preferences.keymap" />
     <property name="recentsLimit" value="5" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ecaHACK" />
+    <property name="last_opened_file_path" value="$USER_HOME$/AndARSampleProject" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
@@ -816,12 +787,14 @@
       <option name="PASS_PARENT_ENVS" value="true" />
       <module name="MolecularBuilder" />
       <envs />
+      <RunnerSettings RunnerId="Cover" />
       <RunnerSettings RunnerId="Debug">
         <option name="DEBUG_PORT" value="" />
         <option name="TRANSPORT" value="0" />
         <option name="LOCAL" value="true" />
       </RunnerSettings>
       <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Cover" />
       <ConfigurationWrapper RunnerId="Debug" />
       <ConfigurationWrapper RunnerId="Run" />
       <method />
@@ -843,6 +816,11 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SliceManager">
+    <option name="analysisUIOptions">
+      <AnalysisUIOptions />
+    </option>
+  </component>
   <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false" SSL_PROTOCOLS="sslv3">
     <option name="USER" value="" />
     <option name="PASSWORD" value="" />
@@ -870,7 +848,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="61" y="24" width="1305" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962668" sideWeight="0.7152" order="9" side_tool="true" content_ui="tabs" />
@@ -878,26 +856,27 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962668" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2848" sideWeight="0.50039715" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32962668" sideWeight="0.7152" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="CDI" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.21842733" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1604448" sideWeight="0.7168" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2832" sideWeight="0.49960285" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1604448" sideWeight="0.6" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2816" sideWeight="0.49960285" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Documentation" active="false" anchor="right" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.08816521" sideWeight="0.7152" order="8" side_tool="false" content_ui="tabs" x="161" y="124" width="1107" height="573" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.21207307" sideWeight="0.6" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2494043" sideWeight="0.6704" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -933,7 +912,7 @@
     <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
     <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
     <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
-    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="false" />
     <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
     <option name="LIMIT_HISTORY" value="true" />
     <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
@@ -966,56 +945,67 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///usr/lib/jvm/default-java/jre/lib/rt.jar!/javax/swing/JFrame.class">
+    <entry file="jar://$USER_HOME$/javalib/j3dutils.jar!/com/sun/j3d/utils/geometry/Sphere.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="154" selection-end="154" vertical-scroll-proportion="0.18382353" />
+        <state line="6" column="60" selection-start="216" selection-end="216" vertical-scroll-proportion="-3.0" />
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/default-java/jre/lib/rt.jar!/javax/swing/JMenu.class">
+    <entry file="jar://$USER_HOME$/javalib/j3dutils.jar!/com/sun/j3d/utils/geometry/Primitive.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="11" selection-start="829" selection-end="829" vertical-scroll-proportion="0.33333334" />
+        <state line="6" column="59" selection-start="215" selection-end="215" vertical-scroll-proportion="-3.0" />
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/default-java/jre/lib/rt.jar!/java/io/File.class">
+    <entry file="jar://$USER_HOME$/javalib/j3dcore.jar!/javax/media/j3d/Node.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="3" selection-start="950" selection-end="989" vertical-scroll-proportion="0.0" />
+        <state line="6" column="61" selection-start="206" selection-end="206" vertical-scroll-proportion="-3.0" />
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/default-java/jre/lib/rt.jar!/java/util/HashMap.class">
+    <entry file="jar://$USER_HOME$/javalib/j3dcore.jar!/javax/media/j3d/SceneGraphObject.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="152" selection-end="152" vertical-scroll-proportion="0.18382353" />
+        <state line="6" column="22" selection-start="167" selection-end="167" vertical-scroll-proportion="0.13368984" />
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/javalib/vecmath.jar!/javax/vecmath/Vector3f.class">
+    <entry file="file://$PROJECT_DIR$/src/universe/MolecularFile.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="11" selection-start="748" selection-end="748" vertical-scroll-proportion="0.5808081" />
+        <state line="19" column="51" selection-start="581" selection-end="581" vertical-scroll-proportion="0.47579297">
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/javalib/j3dcore.jar!/javax/media/j3d/BoundingSphere.class">
+    <entry file="file://$PROJECT_DIR$/tests/molecules/AtomTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="11" selection-start="442" selection-end="442" vertical-scroll-proportion="0.3550914" />
+        <state line="23" column="5" selection-start="507" selection-end="507" vertical-scroll-proportion="0.5008347" />
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/javalib/j3dcore.jar!/javax/media/j3d/Transform3D.class">
+    <entry file="jar:///usr/lib/jvm/default-java/jre/lib/rt.jar!/java/awt/event/ActionListener.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="-3.0" />
+        <state line="7" column="9" selection-start="219" selection-end="219" vertical-scroll-proportion="0.21327014" />
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/javalib/j3dcore.jar!/javax/media/j3d/TransformGroup.class">
+    <entry file="jar:///usr/lib/jvm/default-java/jre/lib/rt.jar!/javax/swing/JLabel.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="158" selection-end="158" vertical-scroll-proportion="0.18891688" />
+        <state line="6" column="13" selection-start="154" selection-end="154" vertical-scroll-proportion="0.18292683" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/universe/EnvironmentConstructor.java">
+    <entry file="file://$PROJECT_DIR$/src/molecules/Atom.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="9" selection-start="691" selection-end="691" vertical-scroll-proportion="0.0">
+        <state line="43" column="39" selection-start="1285" selection-end="1285" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/javalib/j3dutils.jar!/com/sun/j3d/utils/geometry/Sphere.class">
+    <entry file="jar://$USER_HOME$/javalib/j3dcore.jar!/javax/media/j3d/Transform3D.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="13" selection-start="169" selection-end="169" vertical-scroll-proportion="-1.2" />
+        <state line="205" column="0" selection-start="8480" selection-end="8480" vertical-scroll-proportion="0.42780748" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/universe/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="36" selection-start="1855" selection-end="1855" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/molecules/Bound.java">
@@ -1025,39 +1015,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/molecules/Atom.java">
+    <entry file="file://$PROJECT_DIR$/src/universe/EnvironmentConstructor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="71" selection-start="850" selection-end="850" vertical-scroll-proportion="0.0">
+        <state line="22" column="31" selection-start="713" selection-end="713" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/molecules/AtomTest.java">
+    <entry file="jar://$USER_HOME$/javalib/j3dcore.jar!/javax/media/j3d/Group.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="121" selection-end="121" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
+        <state line="30" column="16" selection-start="1152" selection-end="1152" vertical-scroll-proportion="0.3580247" />
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/default-java/jre/lib/rt.jar!/java/lang/Math.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="25" selection-start="498" selection-end="498" vertical-scroll-proportion="0.6017192" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/universe/MoleculeBranch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="53" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/universe/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="87" column="38" selection-start="2556" selection-end="2556" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/universe/MolecularFile.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="9" selection-start="756" selection-end="756" vertical-scroll-proportion="0.64891845">
+        <state line="58" column="96" selection-start="2682" selection-end="2682" vertical-scroll-proportion="0.71428573">
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="docComment;method#rotate#0;class#MoleculeBranch#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1081,7 +1061,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>JavaEE Application</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1141,7 +1121,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>org.codehaus.jackson:com.springsource.org.codehaus.jackson.mapper:1.4.3</last-edited>
+          <last-edited>vecmath</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
