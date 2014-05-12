@@ -96,7 +96,7 @@
       <file leaf-file-name="MoleculeBranch.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/universe/MoleculeBranch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="58" column="96" selection-start="2682" selection-end="2682" vertical-scroll-proportion="0.71428573">
+            <state line="55" column="118" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.58035713">
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="docComment;method#rotate#0;class#MoleculeBranch#0" expanded="true" />
@@ -1034,7 +1034,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/universe/MoleculeBranch.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="58" column="96" selection-start="2682" selection-end="2682" vertical-scroll-proportion="0.71428573">
+        <state line="55" column="118" selection-start="2386" selection-end="2386" vertical-scroll-proportion="0.58035713">
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="docComment;method#rotate#0;class#MoleculeBranch#0" expanded="true" />

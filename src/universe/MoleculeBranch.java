@@ -53,7 +53,7 @@ public class MoleculeBranch extends BranchGroup{
     {
         transform.addChild(translateTo(newHydrogen(), 0,(float)Math.sin(1.91113553)*1.089f,0));
 //        transform.addChild(translateTo(newHydrogen(), 0,(float)Math.cos(Math.toRadians(109.5))*(float)Math.sin(Math.toRadians(109.5))*1.089f,0));
-        transform.addChild(translateTo(newHydrogen(), -(float)Math.sin(1.91113553)*1.089f,0,-0.3338068583535408f*1.5f));
+        transform.addChild(translateTo(newHydrogen(), -(float)Math.sin(1.91113553)*1.089f,0,-0.3338068583535408f*1.089f));
 //        transform.addChild(translateTo(newHydrogen(), -(float)Math.cos(1.91113553)*1.089f,0,0));
         transform.addChild(translateTo(newHydrogen(), 0,0,-(float)Math.sin(-1.91113553)*1.089f));
 //        transform.addChild(translateTo(newHydrogen(), 0,0,(float)Math.cos(-1.91113553)*1.08   9f));
